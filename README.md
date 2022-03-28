@@ -16,7 +16,7 @@ Integrated Development Enviroment: es como el editor de texto, pero incluso mas 
 
 Ejemplo:
 
-´´´
+```
 <head>
 	<meta charset="UTF-8">
 	<title>My AZA Website</title>
@@ -28,4 +28,6 @@ Ejemplo:
 	<link rel="stylesheet" href="style.css">
 	<script src="http://localhost:8080/target/target-script-min.js#anonymous"></script>
 </head>
-´´´
+```
+
+Fin codigo
