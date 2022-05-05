@@ -16,7 +16,7 @@ function concatenate3 (string1, string2, string3) {
     return string1 + string2 + string3
 }
 
-const constConcatenate3 = concatenate3 ("Es " + "un " + "ejemplo")
+const constConcatenate3 = concatenate3 ("Es " , "un " , "eo")
 
 alert (constConcatenate3)
 
