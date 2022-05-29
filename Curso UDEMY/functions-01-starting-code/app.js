@@ -67,3 +67,14 @@ if(gameIsRunning){
     alert(message);
     gameIsRunning = false;
 });
+
+
+const sumUp = (...numbers) => {
+    let sum = 0;
+    for (const num of numbers) {
+        sum += num;
+    }
+    console.log (sum)
+}
+
+sumUp (10, 10, 11, 1000)
